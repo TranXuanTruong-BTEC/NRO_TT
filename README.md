@@ -14,7 +14,7 @@ ant clean jar   # hoặc dùng nút Build trong NetBeans
 ```
 1. Cài Unity Hub, cài Unity Editor bản 2022.3.62f1
 2. Mở Unity Hub -> Add project -> chọn thư mục client/
-3. Đợi Unity import xong (lần đầu sẽ khá lâu)
+3. Đợi Unity import xong 
 4. Sửa địa chỉ IP/port server trong script kết nối (ServerScr.cs / ServerListScreen.cs)
 5. Bấm Play để test trong Editor, hoặc File > Build Settings để build ra .exe/.apk
 ```
